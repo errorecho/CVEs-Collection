@@ -16,3 +16,4 @@
 * [CVE-2021-25646](CVE-2021-25646/) Apache Druid 远程代码执行漏洞
 * [CVE-2021-35042](CVE-2021-35042/) Django QuerySet.order_by() SQL注入漏洞
 * [CVE-2021-3223](CVE-2021-3223/) Node-RED ui_base 任意文件读取漏洞
+* [CVE-2021-27905](CVE-2021-27905/) Apache Solr 服务端请求伪造漏洞
