@@ -17,3 +17,4 @@
 * [CVE-2021-35042](CVE-2021-35042/) Django QuerySet.order_by() SQL注入漏洞
 * [CVE-2021-3223](CVE-2021-3223/) Node-RED ui_base 任意文件读取漏洞
 * [CVE-2021-27905](CVE-2021-27905/) Apache Solr 服务端请求伪造漏洞
+* [CVE-2021-22146](CVE-2021-22146/) Elasticsearch ECE 7.13.3 信息泄露漏洞
